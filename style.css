@@ -187,9 +187,30 @@ span{
     margin: 7px;
 }
 
+/* best seller1 */
+.bestsell1{
+    height: 290px;
+    width: 1475px;
+    margin-top: 15px;
+    background-color: white;
+}
+
+.img-content{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
+}
+.imgs{
+    height: 200px;
+    width: 190px;
+    background-size: cover;
+}
+
+
 /* footer */
 footer{
     margin-top: 15px;
+    width: 100%;
 }
 
 .foot-panel1{
@@ -251,3 +272,4 @@ ul a{
     padding-top: 5px;
     font-size: 0.7rem;
 }
+

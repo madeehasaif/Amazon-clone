@@ -1,1 +1,0 @@
-Developing a clone of Amazon as my mini project
