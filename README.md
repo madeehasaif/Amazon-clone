@@ -14,5 +14,5 @@ A static, front-end web development project that replicates the user interface a
 
 ## 🛠️ Technologies Used
 * **HTML5:** Semantic markup structure (header, main, nav, section, footer).
-* **CSS3:** Custom layout styling, Flexbox, CSS Grid, media queries, and hover transitions.
+* **CSS3:** Custom layout styling, Flexbox, CSS Grids .
 * **FontAwesome / Google Fonts:** Scalable vector icons and clean typography layout.
